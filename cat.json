@@ -1,0 +1,90 @@
+{
+     "chaotic": {
+          "snacks": [
+             "Tums",
+                "Toothpaste",
+                "Toes"
+          ],
+          "names": [
+             "Creature",
+                "Little Man",
+                "Michaelwave"
+                ],
+                    "age": [
+                "100",
+                "1000",
+                ".2"
+          ]
+     },
+     "goofy": {
+          "snacks": [
+                "Toaster",
+                "Unit",
+                "Hotdog Water"
+          ],
+          "names": [
+                "Jude Paw",
+                "General George Pawshington",
+                "Chicken Noodle"
+                ],
+                    "age": [
+                "30",
+                "32",
+                "1"
+          ]
+     },
+
+     "mischievous": {
+          "snacks": [
+                "Unglazed Poptarts",
+                "Your Leftovers",
+                "Toiletpaper"
+          ],
+          "names": [
+               "Creature",
+                "Little Man",
+                "Michaelwave"
+                ],
+                    "age": [
+                "18",
+                "6",
+                "7"
+          ]
+     },
+
+     "lazy": {
+          "snacks": [
+                "Table Scraps",
+                "Kibble",
+                "Kitty Treats"
+          ],
+          "names": [
+                "Toaster",
+                "Kitty",
+                "Tummers"
+                ],
+                    "age": [
+                "16",
+                "4",
+                "8"
+          ]
+     },
+       "sweet": {
+          "snacks": [
+                "Strawberry milk",
+                "Strudel",
+                "Valentine Chocolates"
+          ],
+          "names": [
+                "Mr. Kwitty Kat",
+                "Scwumble Dumble",
+                "Dollop"
+          ],
+                    "age": [
+                "2",
+                "20",
+                "12"
+          ]
+     }
+}
+
